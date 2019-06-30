@@ -1,0 +1,6 @@
+framework module Pods_practice_for_opencv {
+  umbrella header "Pods-practice_for_opencv-umbrella.h"
+
+  export *
+  module * { export * }
+}
